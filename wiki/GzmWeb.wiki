@@ -5,5 +5,6 @@ Benjamin Miller or Joseph Hallford at 1-800-505-7998.
 The lead developer on this project is Viktor Isshyshyn.
 
 
-[http://gzmweb.com/contact.phtml]
-[http://gzmweb.com/about_us.htm]
+Contact Us page: [http://gzmweb.com/contact.phtml]
+
+About Us page: [http://gzmweb.com/about_us.htm]
