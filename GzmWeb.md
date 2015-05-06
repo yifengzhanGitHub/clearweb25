@@ -1,0 +1,10 @@
+**GZM Web** is a custom programming and website development company located in **Midland, Texas.**
+We would be interested in receiving feedback from people on this project and also
+ideas for further improvement.  Businesses that might be interested in reselling this product after we complete testing may contact
+Benjamin Miller at 1-800-505-7998.
+The lead developer on this project is Viktor Isshyshyn.
+
+
+Contact Us page: http://gzmweb.com/contact.phtml
+
+About Us page: http://gzmweb.com/about_us.htm
